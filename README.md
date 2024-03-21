@@ -11,4 +11,11 @@ on study sessions scheduled for classes that that indidvidual has.
 Team name	GAIJAK-StudyMap
 Project title 	A maps enabled app to help people find study sessions
 
+Team members | WSU ID | Name | Email | Contact
 
+	        	11736352	Kyle Nep		kyle.nepo@wsu.edu
+             	11665988	Isaac Stewart		isaac.stewart@wsu.edu
+            	11602294	Abhi Ambati	  	a.ambati@wsu.edu
+                	11678602	Gage Unruh		gage.unruh@wsu.edu
+            	11623374	Joseph Kattakayam	Joseph.Kattakayam@wsu.edu
+	       		11765384	Alex Kennedy		alexander.kennedy@wsu.edu
