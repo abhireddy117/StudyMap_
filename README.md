@@ -11,4 +11,4 @@ on study sessions scheduled for classes that that indidvidual has.
 Team name	GAIJAK-StudyMap
 Project title 	A maps enabled app to help people find study sessions
 
-Project repository	https://github.com/Gageu/StudyMap
+
